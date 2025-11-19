@@ -1,0 +1,15 @@
+{
+  "editor.fontFamily": "'Victor Mono', 'Fira Code', monospace",
+  "editor.fontLigatures": true,
+  "editor.fontVariations": false,
+  "editor.tokenColorCustomizations": {
+    "textMateRules": [
+      {
+        "scope": ["comment", "keyword.control", "storage.modifier"],
+        "settings": {
+          "fontStyle": "italic"
+        }
+      }
+    ]
+  }
+}

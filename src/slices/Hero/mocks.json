@@ -1,0 +1,36 @@
+[
+  {
+    "__TYPE__": "SharedSliceContent",
+    "variation": "default",
+    "primary": {
+      "heading": {
+        "__TYPE__": "StructuredTextContent",
+        "value": [
+          {
+            "type": "heading1",
+            "content": {
+              "text": "Tales"
+            }
+          }
+        ]
+      },
+      "body": {
+        "__TYPE__": "StructuredTextContent",
+        "value": [
+          {
+            "type": "paragraph",
+            "content": {
+              "text": "Id esse amet esse sit consequat commodo nulla. Incididunt irure cillum est nulla ea duis nostrud officia tempor aute sit. Pariatur dolore aute culpa qui deserunt."
+            }
+          }
+        ]
+      },
+      "buy_button_text": {
+        "__TYPE__": "FieldContent",
+        "value": "social",
+        "type": "Text"
+      }
+    },
+    "items": []
+  }
+]
